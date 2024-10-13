@@ -5,10 +5,105 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ab6e752-5ea3-4ae3-9dc8-0474b77c1352" name="Changes" comment="Init Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/controller/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/assets/city-skyline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/assets/coffee-mug.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/assets/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/Flaticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/Flaticon.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/_flaticon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/gijgo-material.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/gijgo-material.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/gijgo-material.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/gijgo-material.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/themify.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/themify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/themify.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/fonts/themify.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/js/vendor/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/registration-resource/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/entity/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/entity/UsersType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/city-skyline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/coffee-mug.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/Flaticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/Flaticon.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/_flaticon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/gijgo-material.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/gijgo-material.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/gijgo-material.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/gijgo-material.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/themify.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/themify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/themify.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/themify.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/vendor/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +113,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -44,11 +139,18 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/media/devhus/Data/jobPortalSpring/jobPortalSpring/src/main/resources/templates",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="JobportalApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.huseyin.jobportal.JobportalApplication" />
@@ -102,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728750011977</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Init Commit">
+      <option name="closed" value="true" />
+      <created>1728751975017</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728751975017</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
