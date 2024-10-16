@@ -2,7 +2,6 @@ package com.huseyin.jobportal.entity;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotEmpty;
-import org.hibernate.usertype.UserType;
 import org.springframework.format.annotation.DateTimeFormat;
 
 import java.util.Date;
@@ -15,7 +14,7 @@ public class Users {
     @GeneratedValue(strategy = GenerationType.AUTO)
     private int userId;
 
-    @Column
+    @Column(unique = true)
     private String email;
 
     @NotEmpty
@@ -28,17 +27,17 @@ public class Users {
 
     @ManyToOne(cascade = CascadeType.ALL)
     @JoinColumn(name = "userTypeId", referencedColumnName = "userTypeId")
-    private UserType userTypeId;
+    private UsersType userTypeId;
 
     public Users() {
     }
 
-    public Users(Date registrationDate, int userId, String email, String password, boolean isActive, UserType userTypeId) {
-        this.registrationDate = registrationDate;
+    public Users(int userId, String email, String password, boolean isActive, Date registrationDate, UsersType userTypeId) {
         this.userId = userId;
         this.email = email;
         this.password = password;
         this.isActive = isActive;
+        this.registrationDate = registrationDate;
         this.userTypeId = userTypeId;
     }
 
@@ -82,11 +81,11 @@ public class Users {
         this.registrationDate = registrationDate;
     }
 
-    public UserType getUserTypeId() {
+    public UsersType getUserTypeId() {
         return userTypeId;
     }
 
-    public void setUserTypeId(UserType userTypeId) {
+    public void setUserTypeId(UsersType userTypeId) {
         this.userTypeId = userTypeId;
     }
 

@@ -5,7 +5,7 @@ import jakarta.persistence.*;
 import java.util.List;
 
 @Entity
-@Table(name = "user_type")
+@Table(name = "users_type")
 public class UsersType {
 
     @Id
@@ -14,7 +14,7 @@ public class UsersType {
 
     private String userTypeName;
 
-    @OneToMany(targetEntity = Users.class, mappedBy = "userTpeId", cascade = CascadeType.ALL)
+    @OneToMany(targetEntity = Users.class, mappedBy = "userTypeId", cascade = CascadeType.ALL)
     private List<Users> users;
 
     public UsersType() {
