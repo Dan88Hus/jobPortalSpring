@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ab6e752-5ea3-4ae3-9dc8-0474b77c1352" name="Changes" comment="Init Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/entity/JobSeekerProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/entity/RecruiterProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/entity/Skills.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/repository/JobSeekerProfileRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/repository/RecruiterProfileRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/entity/RecruiterProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/entity/RecruiterProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/entity/Skills.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/entity/Skills.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/services/UsersService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/services/UsersService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="HTML File" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -142,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729439115569</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Init Commit">
+      <option name="closed" value="true" />
+      <created>1729697963726</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729697963726</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
