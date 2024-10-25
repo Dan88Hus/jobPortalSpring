@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ab6e752-5ea3-4ae3-9dc8-0474b77c1352" name="Changes" comment="Init Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/repository/JobSeekerProfileRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/repository/RecruiterProfileRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/entity/RecruiterProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/entity/RecruiterProfile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/entity/Skills.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/entity/Skills.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/services/UsersService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/services/UsersService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729697963726</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Init Commit">
+      <option name="closed" value="true" />
+      <created>1729869655171</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729869655171</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
