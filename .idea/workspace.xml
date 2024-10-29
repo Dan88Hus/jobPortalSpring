@@ -5,7 +5,348 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ab6e752-5ea3-4ae3-9dc8-0474b77c1352" name="Changes" comment="Init Commit">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/._dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/._summernote" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/._font" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/._lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/._plugin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/._summernote-bs4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/._summernote-bs4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/._summernote-bs4.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/._summernote-bs4.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/._summernote-bs4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/._summernote-bs4.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/._summernote-bs4.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/._summernote-lite.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/._summernote-lite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/._summernote-lite.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/._summernote-lite.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/._summernote-lite.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/._summernote-lite.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/._summernote-lite.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/._summernote.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/._summernote.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/._summernote.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/._summernote.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/._summernote.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/._summernote.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/._summernote.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/font/._summernote.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/font/._summernote.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/font/._summernote.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/font/._summernote.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-ar-AR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-ar-AR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-ar-AR.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-az-AZ.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-az-AZ.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-az-AZ.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-bg-BG.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-bg-BG.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-bg-BG.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-ca-ES.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-ca-ES.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-ca-ES.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-cs-CZ.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-cs-CZ.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-cs-CZ.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-da-DK.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-da-DK.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-da-DK.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-de-DE.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-de-DE.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-de-DE.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-el-GR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-el-GR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-el-GR.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-es-ES.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-es-ES.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-es-ES.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-es-EU.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-es-EU.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-es-EU.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-fa-IR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-fa-IR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-fa-IR.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-fi-FI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-fi-FI.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-fi-FI.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-fr-FR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-fr-FR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-fr-FR.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-gl-ES.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-gl-ES.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-gl-ES.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-he-IL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-he-IL.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-he-IL.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-hr-HR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-hr-HR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-hr-HR.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-hu-HU.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-hu-HU.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-hu-HU.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-id-ID.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-id-ID.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-id-ID.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-it-IT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-it-IT.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-it-IT.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-ja-JP.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-ja-JP.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-ja-JP.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-ko-KR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-ko-KR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-ko-KR.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-lt-LT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-lt-LT.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-lt-LT.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-lt-LV.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-lt-LV.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-lt-LV.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-mn-MN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-mn-MN.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-mn-MN.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-nb-NO.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-nb-NO.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-nb-NO.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-nl-NL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-nl-NL.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-nl-NL.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-pl-PL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-pl-PL.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-pl-PL.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-pt-BR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-pt-BR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-pt-BR.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-pt-PT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-pt-PT.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-pt-PT.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-ro-RO.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-ro-RO.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-ro-RO.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-ru-RU.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-ru-RU.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-ru-RU.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-sk-SK.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-sk-SK.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-sk-SK.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-sl-SI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-sl-SI.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-sl-SI.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-sr-RS-Latin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-sr-RS-Latin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-sr-RS-Latin.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-sr-RS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-sr-RS.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-sr-RS.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-sv-SE.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-sv-SE.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-sv-SE.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-ta-IN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-ta-IN.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-ta-IN.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-th-TH.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-th-TH.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-th-TH.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-tr-TR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-tr-TR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-tr-TR.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-uk-UA.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-uk-UA.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-uk-UA.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-uz-UZ.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-uz-UZ.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-uz-UZ.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-vi-VN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-vi-VN.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-vi-VN.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-zh-CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-zh-CN.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-zh-CN.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-zh-TW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-zh-TW.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/lang/._summernote-zh-TW.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/plugin/._databasic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/plugin/._hello" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/plugin/._specialchars" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/plugin/databasic/._summernote-ext-databasic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/plugin/databasic/._summernote-ext-databasic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/plugin/hello/._summernote-ext-hello.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/__MACOSX/login-logout-resource/summernote/plugin/specialchars/._summernote-ext-specialchars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/font/summernote.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/font/summernote.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/font/summernote.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/font/summernote.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-ar-AR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-ar-AR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-ar-AR.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-az-AZ.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-az-AZ.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-az-AZ.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-bg-BG.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-bg-BG.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-bg-BG.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-ca-ES.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-ca-ES.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-ca-ES.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-cs-CZ.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-cs-CZ.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-cs-CZ.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-da-DK.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-da-DK.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-da-DK.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-de-DE.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-de-DE.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-de-DE.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-el-GR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-el-GR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-el-GR.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-es-ES.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-es-ES.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-es-ES.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-es-EU.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-es-EU.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-es-EU.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-fa-IR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-fa-IR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-fa-IR.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-fi-FI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-fi-FI.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-fi-FI.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-fr-FR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-fr-FR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-fr-FR.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-gl-ES.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-gl-ES.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-gl-ES.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-he-IL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-he-IL.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-he-IL.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-hr-HR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-hr-HR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-hr-HR.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-hu-HU.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-hu-HU.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-hu-HU.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-id-ID.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-id-ID.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-id-ID.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-it-IT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-it-IT.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-it-IT.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-ja-JP.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-ja-JP.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-ja-JP.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-ko-KR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-ko-KR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-ko-KR.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-lt-LT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-lt-LT.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-lt-LT.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-lt-LV.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-lt-LV.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-lt-LV.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-mn-MN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-mn-MN.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-mn-MN.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-nb-NO.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-nb-NO.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-nb-NO.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-nl-NL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-nl-NL.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-nl-NL.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-pl-PL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-pl-PL.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-pl-PL.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-pt-BR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-pt-BR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-pt-BR.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-pt-PT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-pt-PT.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-pt-PT.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-ro-RO.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-ro-RO.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-ro-RO.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-ru-RU.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-ru-RU.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-ru-RU.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-sk-SK.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-sk-SK.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-sk-SK.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-sl-SI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-sl-SI.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-sl-SI.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-sr-RS-Latin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-sr-RS-Latin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-sr-RS-Latin.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-sr-RS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-sr-RS.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-sr-RS.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-sv-SE.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-sv-SE.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-sv-SE.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-ta-IN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-ta-IN.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-ta-IN.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-th-TH.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-th-TH.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-th-TH.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-tr-TR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-tr-TR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-tr-TR.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-uk-UA.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-uk-UA.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-uk-UA.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-uz-UZ.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-uz-UZ.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-uz-UZ.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-vi-VN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-vi-VN.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-vi-VN.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-zh-CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-zh-CN.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-zh-CN.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-zh-TW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-zh-TW.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/lang/summernote-zh-TW.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/plugin/databasic/summernote-ext-databasic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/plugin/databasic/summernote-ext-databasic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/plugin/hello/summernote-ext-hello.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/plugin/specialchars/summernote-ext-specialchars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/summernote-bs4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/summernote-bs4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/summernote-bs4.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/summernote-bs4.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/summernote-bs4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/summernote-bs4.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/summernote-bs4.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/summernote-lite.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/summernote-lite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/summernote-lite.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/summernote-lite.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/summernote-lite.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/summernote-lite.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/summernote-lite.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/summernote.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/summernote.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/summernote.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/summernote.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/summernote.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/summernote.min.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/login-logout-resource/login-logout-resource/summernote/summernote.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/config/CustomAuthenticationSuccessHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/controller/JobPostActivityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/services/CustomUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/util/CustomUserDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/controller/UsersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/controller/UsersController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/services/UsersService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/services/UsersService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/dashboard.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +357,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -35,22 +376,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.JobportalApplication.executor&quot;: &quot;Run&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/media/devhus/Data/jobPortalSpring/jobPortalSpring/src/main/resources/templates&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.JobportalApplication.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/media/devhus/Data/jobPortalSpring/jobPortalSpring/src/main/resources/templates",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/externalResources" />
       <recent name="$PROJECT_DIR$/src/main/resources/static" />
     </key>
   </component>
@@ -155,7 +498,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729869655171</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Init Commit">
+      <option name="closed" value="true" />
+      <created>1729870851263</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729870851263</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
