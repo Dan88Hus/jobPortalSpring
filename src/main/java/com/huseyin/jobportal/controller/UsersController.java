@@ -52,7 +52,7 @@ public class UsersController {
         System.out.println("user:: "+ users);
         usersService.addNew(users);
 
-    return "dashboard";
+    return "redirect:/dashboard/";
 
     }
 
