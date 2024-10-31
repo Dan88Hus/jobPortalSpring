@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ab6e752-5ea3-4ae3-9dc8-0474b77c1352" name="Changes" comment="Init Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/controller/RecruiterProfileController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/services/RecruiterProfileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/recruiter-profile-resource/__MACOSX/._recruiter-profile-resource" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/recruiter-profile-resource/recruiter-profile-resource/recruiter_profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/externalResources/recruiter-profile-resource/recruiter-profile-resource/snippet-for-dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/recruiter/13/federalStates.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/recruiter/13/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/config/MvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/util/FileUploadUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/recruiter_profile.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/controller/RecruiterProfileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/controller/RecruiterProfileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/entity/RecruiterProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/entity/RecruiterProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/services/RecruiterProfileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huseyin/jobportal/services/RecruiterProfileService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/dashboard.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730215927405</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Init Commit">
+      <option name="closed" value="true" />
+      <created>1730315789005</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1730315789005</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
